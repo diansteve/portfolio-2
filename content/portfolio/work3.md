@@ -1,15 +1,16 @@
 ---
-date: "2016-11-05T19:44:32+05:30"
+date: "2016-11-05T19:41:01+05:30"
 draft: false
-image: img/portfolio/gravity-paper.jpg
+image: img/portfolio/business-card-26.jpg
 showonlyimage: false
-title: Name of the work 3
-weight: 2
+title: Default Effect Study
+weight: 3
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Lab stuff info
 <!--more-->
 
+## [**See the analysis**](https://theverge.com) | [**See the code**](https://theverge.com)
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
