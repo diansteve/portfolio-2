@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "Made with <3 in Baltimore"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a data analyst working on predictive modeling solutions for nonprofit and healthcare clients.",
+    "Read on to see more of what I do."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -40,19 +40,16 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  
+  [[params.navlinks]]
+  name = 'Blog'
+  url = 'https://jasonbixonblog.netlify.com'
 
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  email         = "jbixon13@gmail.com"
+  linkedin      = "https://www.linkedin.com/in/jasonbixon/"
+  github        = "https://github.com/jbixon13"
