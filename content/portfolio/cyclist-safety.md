@@ -10,8 +10,7 @@ weight: 2
 Cyclist safety blog post NYC
 <!--more-->
 
-## [**See the analysis**](https://theverge.com) | [**See the code**](https://theverge.com)  
-
+## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city)    
 
 #### What it is:  
 * A tool for nonprofits

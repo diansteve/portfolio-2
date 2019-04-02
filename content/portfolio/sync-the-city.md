@@ -13,15 +13,28 @@ Synchronizing change throughout the city.
 ## [**See the tool**](https://jason-bixon.shinyapps.io/sync_map) | [**See the code**](https://github.com/syncthecity/shinymap)    
 
 #### What it is:  
-* A tool for nonprofits
+* A tool for nonprofit organizations in Baltimore City
+* Duplication of resources and effort hinder success
+* Identify who is working on what, where, and with whom
+* Allow for more effective collaboration and resource allocation
 
 #### What I did:  
-* Built a Shiny web application
+* Developed interactive visualizations for user exploration
+* Prioritized feature development for Minimum Viable Product  
+* Built and deployed a Shiny web application
 
 #### What I learned:  
-* Shiny
-* Leaflet
+* Web Development  
+  + Shiny
+  + Bootstrap
+  + Reactive programming
+  + Front-end design
+* Web Mapping 
+  + Leaflet
+  + Map projections and transformations
 
 #### Why it interests me:  
-* Nonprofits
-* Social Entrepreneurship 
+* Enabling organizations with social justice missions is important 
+* Allowing users to explore data themselves can open opportunities
+* Building a tool instead of an analysis requires a different approach
+* Designing for non-technical audiences is a challenge
