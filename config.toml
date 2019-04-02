@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "Personal portfolio of work, thoughts, design"
   copyright = "Made in Baltimore"
   sidebarAbout = [
     "I am a data analyst working on predictive modeling solutions for nonprofit and healthcare clients.",
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "jbixon13@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
