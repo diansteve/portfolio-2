@@ -9,6 +9,7 @@ I developed research experience as a Principal Investigator in the [**Pro-Enviro
 
 ![This is me][1]
 
+
 #### Specializations
 
 * Machine Learning/Predictive Modeling
@@ -18,4 +19,4 @@ I developed research experience as a Principal Investigator in the [**Pro-Enviro
 * Experimental Design
 
 
-[1]: /img/about.jpg
+[1]: /img/headshot.jpg
