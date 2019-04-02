@@ -10,6 +10,8 @@ weight: 2
 Cyclist safety blog post NYC
 <!--more-->
 
+![Bike][1]
+
 ## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city)    
 
 #### What it is:  
@@ -25,3 +27,5 @@ Cyclist safety blog post NYC
 #### Why it interests me:  
 * Nonprofits
 * Social Entrepreneurship 
+
+[1]: /img/portfolio/cyclist-safety.gif

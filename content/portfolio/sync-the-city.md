@@ -10,6 +10,8 @@ weight: 1
 Synchronizing change throughout the city.
 <!--more-->
 
+<img src="/img/portfolio/baltimore-map.png" width="60%">
+
 ## [**See the tool**](https://jason-bixon.shinyapps.io/sync_map) | [**See the code**](https://github.com/syncthecity/shinymap)    
 
 #### What it is:  
@@ -31,6 +33,7 @@ Synchronizing change throughout the city.
   + Front-end design
 * Web Mapping 
   + Leaflet
+  + Google Maps Platform API
   + Map projections and transformations
 
 #### Why it interests me:  
