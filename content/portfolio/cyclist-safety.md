@@ -7,7 +7,7 @@ title: Cyclist Safety
 weight: 3
 ---
 
-Cyclist safety blog post NYC
+Is there a relationship between bike path access and cyclist injuries?
 <!--more-->
 
 ![Bike][1]
