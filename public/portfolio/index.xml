@@ -6,10 +6,19 @@
     <description>Recent content in Portfolios on Jason Bixon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shiny is a Godsend</title>
+      <link>/portfolio/shiny-is-a-godsend/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/shiny-is-a-godsend/</guid>
+      <description>&lt;p&gt;A suprisingly intuitive tool for data democratization.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Sync the City</title>
@@ -30,21 +39,21 @@
     </item>
     
     <item>
-      <title>Default Effect Study</title>
-      <link>/portfolio/default-effect-study/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/portfolio/default-effect-study/</guid>
-      <description>&lt;p&gt;Lab stuff info&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>New Year, New (First) Blog</title>
       <link>/portfolio/new-year-new-first-blog/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/new-year-new-first-blog/</guid>
       <description>&lt;p&gt;Trying my best.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Default Effect Study</title>
+      <link>/portfolio/default-effect-study/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/default-effect-study/</guid>
+      <description>&lt;p&gt;Lab stuff info&lt;/p&gt;</description>
     </item>
     
   </channel>

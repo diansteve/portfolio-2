@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/new-year-new-first-blog-preview.png
 showonlyimage: false
 title: New Year, New (First) Blog
-weight: 3
+weight: 4
 ---
 
 Trying my best.
@@ -12,7 +12,7 @@ Trying my best.
 
 ![Cartoon][1]
 
-## [**See the analysis**](https://theverge.com) | [**See the code**](https://theverge.com)
+## [**Read the blog**](https://theverge.com) | [**See the code**](https://theverge.com)
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.

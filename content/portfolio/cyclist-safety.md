@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/cyclist-safety.gif
 showonlyimage: false
 title: Cyclist Safety
-weight: 2
+weight: 3
 ---
 
 Cyclist safety blog post NYC
