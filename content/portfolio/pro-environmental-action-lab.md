@@ -1,19 +1,19 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
 draft: false
-image: img/portfolio/default-effect-study.jpg
+image: img/portfolio/pro-environmental-action-lab.jpg
 showonlyimage: false
-title: Default Effect Study
-weight: 5
+title: Pro-Environmental Action Lab
+weight: 6
 ---
 
-How does transparency in messaging impact renewable energy adoption?
+My work as a research associate in a sustainability psychology lab.
 <!--more-->
 
-![NYT][1]
-Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/behavioral-economics.html?rref=collection/column/Gray%20Matter)
+![TPOS][1]
+Art from [The Psychology of Fashion](http://www.tpof-thepsychologyoffashion.com/industry/fashion-psychology/fashion-sustainability)
 
-## [**See the poster**](/img/portfolio/AMA Conference Poster 36x48 - alt colors 2.pdf) | [**See the code**](https://github.com/jbixon13/Swim-Lab)
+## [**See the lab**](https://swimlab.weebly.com)
 
 #### What it is:  
 * A tool for nonprofit organizations in Baltimore City
@@ -22,11 +22,9 @@ Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/beha
 * Allow for more effective collaboration and resource allocation
 
 #### What I did:  
-* Lit Review
-* Research Design
-* IRB 
-* Presented
-* Won third place
+* Developed interactive visualizations for user exploration
+* Prioritized feature development for Minimum Viable Product  
+* Built and deployed a Shiny web application
 
 #### What I learned:  
 * Web Development  
@@ -45,5 +43,5 @@ Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/beha
 * Building a tool instead of an analysis requires a different approach
 * Designing for non-technical audiences is a challenge
 
-[1]: /img/portfolio/default-effect-study.jpg
+[1]: /img/portfolio/pro-environmental-action-lab.jpg
 
