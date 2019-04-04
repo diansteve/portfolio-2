@@ -10,7 +10,9 @@ weight: 3
 Is there a relationship between bike path access and cyclist injuries?
 <!--more-->
 
-![Bike][1]
+![Bike][1]  
+Art from [Downtown LA Law Group](http://downtownlalaw.com/wp-content/uploads/2012/02/los-angeles-bike-accident-lawyer.gif)
+
 
 ## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city)    
 

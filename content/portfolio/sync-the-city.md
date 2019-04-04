@@ -11,6 +11,7 @@ Synchronizing change throughout the city.
 <!--more-->
 
 <img src="/img/portfolio/baltimore-map.png" width="60%">
+Art from [Redbubble](https://ih1.redbubble.net/image.92011978.1702/flat%2C220x200%2C075%2Ct.u1.jpg)
 
 ## [**See the tool**](https://jason-bixon.shinyapps.io/sync_map) | [**See the code**](https://github.com/syncthecity/shinymap)    
 

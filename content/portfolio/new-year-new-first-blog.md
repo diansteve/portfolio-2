@@ -11,26 +11,16 @@ Trying my best.
 <!--more-->
 
 ![Cartoon][1]
+Art from [Shutterstock](https://www.shutterstock.com/image-vector/characters-people-analyzing-graphs-diagrams-illustration-1234822261?irgwc=1)
 
-## [**Read the blog**](https://theverge.com) | [**See the code**](https://theverge.com)
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Now that I've spent an unfortunate amount of time debating the best way to share my work on the internet, I guess I should write about it a little. If anything maybe it will make me feel like it was worth it. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+I've never maintained a blog before (excluding the website me and my neighbor made when we were 8 where we gave completely inaccurate advice on pet ownership to people who are unquestionably worse off due to it) and I can't promise that I'll maintain this one either. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+I listen to the [**DataFramed Podcast**](https://www.datacamp.com/community/podcast) a lot and a piece of advice that is invariably given by data science experts is to maintain a blog where you share your work publically. That doesn't make it feel any less silly to share my work into the void that this will likely be, but if anything it will be a good way to practice hosting projects on the internet. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Working with modern web frameworks is not exactly my forte, and I would probably continue actively avoiding anything even close to web development if that were possible. That being said, I am aware of how much more impactful data can be when it's interactive and painfully aware of [**how little I know about it.**](http://d3js.org) Thankfully, I can achieve a healthy dose of interactivity without having to learn JavaScript through packages like [**HTMLwidgets**](http://www.htmlwidgets.org/), [**Leaflet**](https://rstudio.github.io/leaflet/), [**plot.ly**](https://plot.ly/r/), and others. That allows me to spend more time working on the applied research questions I want to investigate and less time figuring out how to share them. 
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+The takeaway should not be that you can avoid learning how web frameworks work, as I know I will need to learn them eventually if I want to take my analyses to the point that I envision them in my head. My point is that as someone new to "data science" and programming in general, the R ecosystem has made my life inexpressibly less stressful due to its integration with modern tools for sharing my work.
 
 [1]: /img/portfolio/new-year-new-first-blog-preview.png
