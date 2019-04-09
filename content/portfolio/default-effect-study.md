@@ -30,7 +30,7 @@ Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/beha
 * Submitted IRB proposal and revised until accepted
 * Administered survey online to subject pool
 * Analyzed data to test hypotheses on outcome measures
-* Presented findings at 2018 AMA ICC and local conferences
+* Presented findings at [**2018 AMA ICC**](https://www.ama.org/events/2019-ama-international-collegiate-conference/) and [**local**](https://sites.psu.edu/psichi/) [**conferences**](https://undergradresearch.psu.edu/resources/opportunities/undergraduate-exhibition)
 * Won third place at 2018 AMA ICC representing Penn State 
 
 #### What I learned:  
