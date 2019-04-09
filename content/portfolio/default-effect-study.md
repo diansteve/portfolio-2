@@ -16,34 +16,46 @@ Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/beha
 ## [**See the poster**](/img/portfolio/AMA Conference Poster 36x48 - alt colors 2.pdf) | [**See the code**](https://github.com/jbixon13/Swim-Lab)
 
 #### What it is:  
-* A tool for nonprofit organizations in Baltimore City
-* Duplication of resources and effort hinder success
-* Identify who is working on what, where, and with whom
-* Allow for more effective collaboration and resource allocation
+* An experimental study to contribute to behavioral nudge theory 
+* The default effect overpowers individual choice 
+  + Even when decision-makers are aware of the presence of defaults
+* Literature suggests testing the impact of transparency on defaults
+* Our study: can transparent justifications for defaults impact renewable energy adoption?
 
 #### What I did:  
-* Lit Review
-* Research Design
-* IRB 
-* Presented
-* Won third place
+* Review literature on behavioral nudging and the default effect
+* Create experimental design to test hypothesis correctly 
+* Power analysis to determine subjects needed 
+* Developed pre-screen and survey tools to test hypothesis
+* Submitted IRB proposal and revised until accepted
+* Administered survey online to subject pool
+* Analyzed data to test hypotheses on outcome measures
+* Presented findings at 2018 AMA ICC and local conferences
+* Won third place at 2018 AMA ICC representing Penn State 
 
 #### What I learned:  
-* Web Development  
-  + Shiny
-  + Bootstrap
-  + Reactive programming
-  + Front-end design
-* Web Mapping 
-  + Leaflet
-  + Google Maps Platform API
-  + Map projections and transformations
+* Experimental Design
+  + Power Analysis 
+  + Factorial Design
+  + Survey Design
+  + Subject assignment and measurement 
+* Data Analysis 
+  + SPSS
+  + Hypothesis testing
+  + Variable interactions
+* Scientific Communication
+  + Poster design
+  + Conference presentation
 
 #### Why it interests me:  
-* Enabling organizations with social justice missions is important 
-* Allowing users to explore data themselves can open opportunities
-* Building a tool instead of an analysis requires a different approach
-* Designing for non-technical audiences is a challenge
+* Choice architecture has a powerful impact on decision-making 
+* Defaults can promote good or bad decisions but can't be ignored 
+* We need to consider its influence, especially when developing policy
+  + It is amoral to ignore defaults when giving people choices
+  + Moral leadership is needed to protect vulnerable populations
+* It can be used to challenge defaults when people make decisions
+  + Fossil fuel energy is the default in most architectures
+  + Can renewables be adopted more by making them the default?
 
 [1]: /img/portfolio/default-effect-study.jpg
 
