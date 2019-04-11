@@ -17,8 +17,8 @@ Art from [Redbubble](https://ih1.redbubble.net/image.92011978.1702/flat%2C220x20
 
 #### What it is:  
 * A tool for nonprofit organizations in Baltimore City
-* Duplication of resources and effort hinder success
 * Identify who is working on what, where, and with whom
+* Show this information in an intuitive way 
 * Allow for more effective collaboration and resource allocation
 
 #### What I did:  

@@ -23,9 +23,9 @@ Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/beha
 * Our study: can transparent justifications for defaults impact renewable energy adoption?
 
 #### What I did:  
-* Review literature on behavioral nudging and the default effect
-* Create experimental design to test hypothesis correctly 
-* Power analysis to determine subjects needed 
+* Reviewed literature on behavioral nudging and the default effect
+* Created experimental design to test hypothesis correctly 
+* Conducted power analysis to determine subjects needed 
 * Developed pre-screen and survey tools to test hypothesis
 * Submitted IRB proposal and revised until accepted
 * Administered survey online to subject pool
