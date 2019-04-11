@@ -30,7 +30,7 @@ Art from [Downtown LA Law Group](http://downtownlalaw.com/wp-content/uploads/201
 #### What I learned:  
 * Geospatial analysis
   + Leaflet
-  + rdgal
+  + rgdal
   + sf
   + Map projections
   + Map transformations
