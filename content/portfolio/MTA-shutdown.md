@@ -17,10 +17,10 @@ Art from [Giphy](https://giphy.com/gifs/ny-subway-nanarausch-prince-street-8LV2O
 ## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city)    
 
 #### What it is:  
-* A tool for nonprofits
+* Coming soon
 
 #### What I did:  
-* Built a Shiny web application
+* Coming soon
 
 #### What I learned:  
 * Plotly
@@ -28,7 +28,6 @@ Art from [Giphy](https://giphy.com/gifs/ny-subway-nanarausch-prince-street-8LV2O
   + Socrata
 
 #### Why it interests me:  
-* Nonprofits
-* Social Entrepreneurship 
+* Coming soon
 
 [1]: /img/portfolio/MTA-shutdown.gif
