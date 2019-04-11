@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/default-effect-study.jpg
 showonlyimage: false
 title: Default Effect Study
-weight: 5
+weight: 6
 ---
 
 How does transparency in messaging impact renewable energy adoption?

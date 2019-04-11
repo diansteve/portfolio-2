@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/pro-environmental-action-lab.jpg
 showonlyimage: false
 title: Pro-Environmental Action Lab
-weight: 6
+weight: 7
 ---
 
 My work as a research associate in a sustainability psychology lab.
