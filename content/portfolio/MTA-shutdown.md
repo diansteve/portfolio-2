@@ -23,8 +23,9 @@ Art from [Giphy](https://giphy.com/gifs/ny-subway-nanarausch-prince-street-8LV2O
 * Built a Shiny web application
 
 #### What I learned:  
-* Shiny
-* Leaflet
+* Plotly
+* Open Data Platforms
+  + Socrata
 
 #### Why it interests me:  
 * Nonprofits

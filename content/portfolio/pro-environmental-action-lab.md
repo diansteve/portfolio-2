@@ -16,32 +16,35 @@ Art from [The Psychology of Fashion](http://www.tpof-thepsychologyoffashion.com/
 ## [**See the lab**](https://swimlab.weebly.com)
 
 #### What it is:  
-* A tool for nonprofit organizations in Baltimore City
-* Duplication of resources and effort hinder success
-* Identify who is working on what, where, and with whom
-* Allow for more effective collaboration and resource allocation
+* A social psychology lab directed by [**Janet Swim**](https://scholar.google.com/citations?user=JQSxXl8AAAAJ&hl=en)
+* Focused on modeling and facilitating pro-environmental behavior
+* Experimental studies occuring both in and out of the lab setting
 
 #### What I did:  
-* Developed interactive visualizations for user exploration
-* Prioritized feature development for Minimum Viable Product  
-* Built and deployed a Shiny web application
+* Reviewed literature to identify outcome measures for replication studies
+* Proposed a study to a town council testing science-based justifications for renewable energy adoption  
+* Led participants through studies
+  + Fish Simulation Study: Lab study testing whether anger leads to increased competitiveness in commons dilemmas
+  + Nature Walk Study: Outdoor study testing whether exposure to natural environments reduces self-focused thoughts
+* Facilitated data collection 
+  + Walked participants through informed consent
+  + Maintained consistency in experience for data integrity
+  + Built cover story to improve data quality by increasing competitiveness
 
 #### What I learned:  
-* Web Development  
-  + Shiny
-  + Bootstrap
-  + Reactive programming
-  + Front-end design
-* Web Mapping 
-  + Leaflet
-  + Google Maps Platform API
-  + Map projections and transformations
+* [**CITI IRB/Human Subjects Research Certification**](https://about.citiprogram.org/en/series/human-subjects-research-hsr/)
+* Literature Review  
+* Scientific Communication
+* Study Facilitation 
+  + Informed Consent
+  + Data Security
+  + Data Collection
+  + Subject pool assignment 
 
 #### Why it interests me:  
-* Enabling organizations with social justice missions is important 
-* Allowing users to explore data themselves can open opportunities
-* Building a tool instead of an analysis requires a different approach
-* Designing for non-technical audiences is a challenge
+* Meaningful climate change aversion must come from behavioral and policy changes
+* Understanding psychological or societal barriers to pro-environmental behavior can inform smarter policy 
+* Contributing to a field in novel ways is rewarding and exciting 
 
 [1]: /img/portfolio/pro-environmental-action-lab.jpg
 
