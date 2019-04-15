@@ -14,20 +14,33 @@ Is the NYC subway system as dire as we say it is?
 Art from [Giphy](https://giphy.com/gifs/ny-subway-nanarausch-prince-street-8LV2OWXGs6xH2)
 
 
-## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city)    
+## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-04-14-mta-shutdown/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-04-14-mta-shutdown)    
 
 #### What it is:  
-* Coming soon
+* An analysis of the MTA subway system
+* A comparison between mine and existing stories  
 
 #### What I did:  
-* Coming soon
+* Downloaded data through Socrata open data platform
+* Plotted useful metrics relevant to the subway system
+* Compared my visuals to those from the MTA performance dashboard
+* Critiqued their approach to data communication
+* Contextualized my findings with domain publications
 
 #### What I learned:  
-* Plotly
+* Visualization
+  + Plotly
+  + Interactive data plotting
+  + Storytelling with data best practices
+* Data Processing
+  + Exploratory Data Analysis 
+  + Time-series manipulation
 * Open Data Platforms
   + Socrata
 
 #### Why it interests me:  
-* Coming soon
+* Visualization is powerful but must be properly contextualized
+* Public transportation is a vital asset to urban populations
+* Understanding system feedback loops helps identify solutions
 
 [1]: /img/portfolio/MTA-shutdown.gif
