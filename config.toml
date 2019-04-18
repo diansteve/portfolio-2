@@ -15,7 +15,7 @@ googleAnalytics = ""
   copyright = "Made in Baltimore"
   sidebarAbout = [
     "I am a data analyst working on predictive modeling solutions for nonprofit and healthcare clients.",
-    "Read on to see more of what I do."
+    "Read on to see more of what I do." 
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

@@ -353,6 +353,10 @@ SIDEBAR + RIGHT COLUMN
   color: #999999;
   font-size: 14px;
 }
+.sidebar-icons {
+  color: #999999;
+  font-size: 14px;
+}
 .sidebar-menu {
   list-style-type: none;
   padding-left: 20px;
