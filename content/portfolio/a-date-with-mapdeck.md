@@ -11,9 +11,9 @@ Deck.gl is cool, Deck.gl in R is cooler.
 <!--more-->
 
 ![Deck.gl][1]
-Art from [Uber](https://www.shutterstock.com/image-vector/responsive-web-design-concept-vector-166029758?irgwc=1)
+Art from [Uber](https://github.com/uber/deck.gl)
 
-## [**See the tool**](https://sync-the-city.shinyapps.io/sync_map/) | [**See the code**](https://github.com/syncthecity/shinymap)    
+## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-06-16-a-date-with-mapdeck/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-06-16-a-date-with-mapdeck)    
 
 #### What it is:  
 * An animated map of subway lines in New York City 
