@@ -13,7 +13,11 @@ My work as a research associate in a sustainability psychology lab.
 ![TPOS][1]
 Art from [The Psychology of Fashion](http://www.tpof-thepsychologyoffashion.com/industry/fashion-psychology/fashion-sustainability)
 
-## [**See the lab**](https://swimlab.weebly.com)
+<h2>
+    <a href='https://swimlab.weebly.com' target='_blank'>
+    See the lab
+    </a>
+</h2>
 
 #### What it is:  
 * A social psychology lab directed by [**Janet Swim**](https://scholar.google.com/citations?user=JQSxXl8AAAAJ&hl=en)

@@ -13,8 +13,15 @@ Is there a relationship between bike path access and cyclist injuries?
 ![Bike][1]  
 Art from [Downtown LA Law Group](http://downtownlalaw.com/wp-content/uploads/2012/02/los-angeles-bike-accident-lawyer.gif)
 
-
-## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city)    
+<h2>
+    <a href='https://jasonbixonblog.netlify.com/posts/2019-01-24-mapping-cyclist-safety-in-new-york-city/' target='_blank'>
+    Read the blog
+    </a>
+    |
+    <a href='https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-01-24-mapping-cyclist-safety-in-new-york-city' target='_blank'>
+    See the code
+    </a>
+</h2>
 
 #### What it is:  
 * An analysis of cyclist injuries and deaths in NYC

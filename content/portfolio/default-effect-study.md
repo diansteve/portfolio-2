@@ -13,7 +13,15 @@ How does transparency in messaging impact renewable energy adoption?
 ![NYT][1]
 Art from [New York Times](https://www.nytimes.com/2018/10/06/opinion/sunday/behavioral-economics.html?rref=collection/column/Gray%20Matter)
 
-## [**See the poster**](/img/portfolio/AMA Conference Poster 36x48 - alt colors 2.pdf) | [**See the code**](https://github.com/jbixon13/Swim-Lab)
+<h2>
+    <a href='/img/portfolio/AMA Conference Poster 36x48 - alt colors 2.pdf' target='_blank'>
+    See the poster
+    </a>
+    |
+    <a href='https://github.com/jbixon13/Swim-Lab' target='_blank'>
+    See the code
+    </a>
+</h2>
 
 #### What it is:  
 * An experimental study to contribute to behavioral nudge theory 

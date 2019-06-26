@@ -13,8 +13,15 @@ Is the NYC subway system as dire as we say it is?
 ![Subway][1]  
 Art from [Giphy](https://giphy.com/gifs/ny-subway-nanarausch-prince-street-8LV2OWXGs6xH2)
 
-
-## [**Read the blog**](https://jasonbixonblog.netlify.com/posts/2019-04-14-mta-shutdown/) | [**See the code**](https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-04-14-mta-shutdown)    
+<h2>
+    <a href='https://jasonbixonblog.netlify.com/posts/2019-04-14-mta-shutdown/' target='_blank'>
+    Read the blog
+    </a>
+    |
+    <a href='https://github.com/jbixon13/Radix-blog/tree/master/_posts/2019-04-14-mta-shutdown' target='_blank'>
+    See the code
+    </a>
+</h2>
 
 #### What it is:  
 * An analysis of the MTA subway system
