@@ -9,11 +9,6 @@
     <i class="fa fa-google-plus"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.twitter }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external twitter">
-    <i class="fa fa-twitter"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.instagram }}
   <a href="{{ . }}" title="" class="external instagram">
     <i class="fa fa-instagram"></i>
@@ -37,6 +32,11 @@
   {{ with .Site.Params.social.github }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external">
     <i class="fa fa-github"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.twitter }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external twitter">
+    <i class="fa fa-twitter"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.youtube }}
