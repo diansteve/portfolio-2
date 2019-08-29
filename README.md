@@ -1,7 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f39d91b-a341-410d-9e49-62500ee395d1/deploy-status)](https://app.netlify.com/sites/jasonbixon/deploys)
+
 # Personal Portfolio
 A collection of my work and thoughts.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6f39d91b-a341-410d-9e49-62500ee395d1/deploy-status)](https://app.netlify.com/sites/jasonbixon/deploys)
+## My approach
+Two websites for two purposes.
+- [Portfolio](https://jasonbixon.netlify.com/portfolio/) for a portfolio-style site as a high-level view of what I do
+- [Data Blog](https://jasonbixonblog.netlify.com/) for a blog-style collection of my analyses
 
 ## How it's built
 - [Blogdown](https://bookdown.org/yihui/blogdown/)
