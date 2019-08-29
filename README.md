@@ -9,10 +9,10 @@ Two websites for two purposes.
 - [Data Blog](https://jasonbixonblog.netlify.com/) for a blog-style collection of my analyses
 
 ## How it's built
-- [Blogdown](https://bookdown.org/yihui/blogdown/)
+- [Blogdown](https://bookdown.org/yihui/blogdown/) for portfolio
+- [Distill for R Markdown](https://rstudio.github.io/distill/) for data blog
 - [Hugo](https://github.com/kishaningithub/hugo-creative-portfolio-theme) 
 - [Netlify](https://bookdown.org/yihui/blogdown/netlify.html)
-- [Distill for R Markdown for analysis posts](https://rstudio.github.io/distill/)
 
 ## Why that stack?
 - Portfolio stack is simple, write all posts in Markdown
