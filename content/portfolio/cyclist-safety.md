@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/cyclist-safety.gif
 showonlyimage: false
 title: Cyclist Safety
-weight: 3
+weight: 5
 ---
 
 Is there a relationship between bike path access and cyclist injuries?

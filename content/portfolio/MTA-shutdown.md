@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/MTA-shutdown.gif
 showonlyimage: false
 title: MTA Doom and Gloom
-weight: 4
+weight: 6
 ---
 
 Is the NYC subway system as dire as we say it is?

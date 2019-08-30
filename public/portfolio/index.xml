@@ -30,21 +30,21 @@
     </item>
     
     <item>
-      <title>Shiny is Cool as Hell</title>
-      <link>/portfolio/shiny-is-cool-as-hell/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/portfolio/shiny-is-cool-as-hell/</guid>
-      <description>&lt;p&gt;A suprisingly intuitive tool for data democratization.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Sync the City</title>
       <link>/portfolio/sync-the-city/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/portfolio/sync-the-city/</guid>
       <description>&lt;p&gt;Synchronizing change throughout the city.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shiny is Cool as Hell</title>
+      <link>/portfolio/shiny-is-cool-as-hell/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/shiny-is-cool-as-hell/</guid>
+      <description>&lt;p&gt;A suprisingly intuitive tool for data democratization.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,15 +66,6 @@
     </item>
     
     <item>
-      <title>New Year, New (First) Blog</title>
-      <link>/portfolio/new-year-new-first-blog/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/portfolio/new-year-new-first-blog/</guid>
-      <description>&lt;p&gt;Trying my best.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Default Effect Study</title>
       <link>/portfolio/default-effect-study/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
@@ -90,6 +81,15 @@
       
       <guid>/portfolio/pro-environmental-action-lab/</guid>
       <description>&lt;p&gt;My work as a research associate in a sustainability psychology lab.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Year, New (First) Blog</title>
+      <link>/portfolio/new-year-new-first-blog/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/new-year-new-first-blog/</guid>
+      <description>&lt;p&gt;Trying my best.&lt;/p&gt;</description>
     </item>
     
   </channel>
