@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/cyclist-safety.gif
 showonlyimage: false
 title: Cyclist Safety
-weight: 5
+weight: 2
 ---
 
 Is there a relationship between bike path access and cyclist injuries?
@@ -36,18 +36,16 @@ Art from [Downtown LA Law Group](http://downtownlalaw.com/wp-content/uploads/201
 
 #### What I learned:  
 * Geospatial analysis
-  + Leaflet
-  + rgdal
-  + sf
+  + Simple Features
   + Map projections
   + Map transformations
   + Point-data aggregation
+  + Geometric operations (conditional distance measurement)
 * Visualization tools
   + Plotly
-  + gganimate
-* Sharing analyses
-  + Rmarkdown
-  + Distill 
+  + Gganimate
+  + Leaflet
+  + Mapdeck
 
 #### Why it interests me:  
 * Carbon-neutral transport is important to climate change aversion

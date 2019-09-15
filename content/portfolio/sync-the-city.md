@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/baltimore-map.png
 showonlyimage: false
 title: Sync the City
-weight: 3
+weight: 4
 ---
 
 Synchronizing change throughout the city.
