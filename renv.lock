@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "https://cran.rstudio.com/"
+        "URL": "https://cran.rstudio.com"
       }
     ]
   },
@@ -81,10 +81,10 @@
     },
     "markdown": {
       "Package": "markdown",
-      "Version": "0.9",
+      "Version": "1.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "5e5d7e3b37fbdb3b06e3f9484f80db0e"
+      "Hash": "ee162ebd6b7488e2f5a0773f1a06e71a"
     },
     "mime": {
       "Package": "mime",
@@ -102,14 +102,15 @@
       "RemoteUsername": "rstudio",
       "RemoteRepo": "renv",
       "RemoteRef": "master",
-      "RemoteSha": "3e23f7fe395284426084ff163cab57b6aebc351a"
+      "RemoteSha": "3e23f7fe395284426084ff163cab57b6aebc351a",
+      "Hash": "cce650ab9a9ae39accd6ca5af7ffe8a6"
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "1.12",
+      "Version": "1.16",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "6adbc9e47370f441b5ab2a4a4bd066df"
+      "Hash": "7143a6543ee0f1a566fd5e8c6d6bbc23"
     },
     "stringi": {
       "Package": "stringi",
@@ -127,17 +128,17 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.11",
+      "Version": "0.16",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "d7ca18ea2e5d664fa6105881285c6b6e"
+      "Hash": "7e763ef744f5068fa761f2bb39709cd4"
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.5",
+      "Version": "0.9",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "efb8ebcaf9c3ec5f03338c82b7c2aad9"
+      "Hash": "c56287303132a867458586851d3ab5c4"
     },
     "yaml": {
       "Package": "yaml",
