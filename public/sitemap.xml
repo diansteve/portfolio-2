@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/portfolio/hiking-buddy/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/a-year-in-review/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
@@ -38,12 +43,12 @@
   </url>
   
   <url>
-    <loc>/portfolio/new-year-new-first-blog/</loc>
+    <loc>/portfolio/pro-environmental-action-lab/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/pro-environmental-action-lab/</loc>
+    <loc>/portfolio/new-year-new-first-blog/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   

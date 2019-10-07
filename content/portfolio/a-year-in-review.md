@@ -4,7 +4,7 @@ draft: no
 date: '2016-11-05T19:41:01+05:30'
 showonlyimage: no
 image: img/portfolio/a-year-in-review.png
-weight: 1
+weight: 2
 ---
 
 A reflection on my first year (and change) in the real world.

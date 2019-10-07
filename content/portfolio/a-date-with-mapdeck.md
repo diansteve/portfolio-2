@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/a-date-with-mapdeck.jpg
 showonlyimage: false
 title: A date with Mapdeck
-weight: 3
+weight: 4
 ---
 
 Deck.gl is cool, Deck.gl in R is cooler.

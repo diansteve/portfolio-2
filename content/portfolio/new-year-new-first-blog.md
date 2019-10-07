@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/new-year-new-first-blog-preview.png
 showonlyimage: false
 title: New Year, New (First) Blog
-weight: 8
+weight: 10
 ---
 
 Trying my best.
