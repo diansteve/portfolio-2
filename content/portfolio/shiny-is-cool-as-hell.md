@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/shiny-is-a-godsend.jpg
 showonlyimage: false
 title: Shiny is Cool as Hell
-weight: 6
+weight: 7
 ---
 
 A suprisingly intuitive tool for data democratization.

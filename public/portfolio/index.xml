@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Shinyhero</title>
+      <link>/portfolio/shinyhero/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/shinyhero/</guid>
+      <description>&lt;p&gt;An end-to-end Shiny pipeline for the DevOps-illiterate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Hiking Buddy</title>
       <link>/portfolio/hiking-buddy/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/hiking-buddy/</guid>
-      <description>&lt;p&gt;Mapbox + Unity 3D = A fun little experiment&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mapbox + Unity 3D = Me buying an Android developer license.&lt;/p&gt;</description>
     </item>
     
     <item>
