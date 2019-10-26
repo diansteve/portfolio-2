@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/shinyhero.gif
 showonlyimage: false
 title: Shinyhero
-weight: 1
+weight: 2
 ---
 
 An end-to-end Shiny pipeline for the DevOps-illiterate.

@@ -3,8 +3,8 @@ date: "2016-11-05T19:41:01+05:30"
 draft: false
 image: img/portfolio/a-date-with-mapdeck.jpg
 showonlyimage: false
-title: A date with Mapdeck
-weight: 5
+title: A Date with Mapdeck
+weight: 6
 ---
 
 Deck.gl is cool, Deck.gl in R is cooler.
