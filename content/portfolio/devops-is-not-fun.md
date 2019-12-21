@@ -4,7 +4,7 @@ draft: no
 date: '2016-11-05T19:41:01+05:30'
 showonlyimage: no
 image: img/portfolio/devops-is-not-fun.png
-weight: 1
+weight: 2
 ---
 
 Accepting my fate and building robust software.

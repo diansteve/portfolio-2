@@ -2,129 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Bixon</title>
-    <link>/</link>
+    <link>https://jasonbixon.netlify.com/</link>
     <description>Recent content on Jason Bixon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonbixon.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning DevOps, Unfortunately</title>
-      <link>/portfolio/devops-is-not-fun/</link>
+      <title>Nodeblog</title>
+      <link>https://jasonbixon.netlify.com/portfolio/nodeblog/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/devops-is-not-fun/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/nodeblog/</guid>
+      <description>&lt;p&gt;Expressing myself with Express.js&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning DevOps, Unfortunately</title>
+      <link>https://jasonbixon.netlify.com/portfolio/devops-is-not-fun/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://jasonbixon.netlify.com/portfolio/devops-is-not-fun/</guid>
       <description>&lt;p&gt;Accepting my fate and building robust software.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shinyhero</title>
-      <link>/portfolio/shinyhero/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/shinyhero/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/shinyhero/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/shinyhero/</guid>
       <description>&lt;p&gt;An end-to-end Shiny pipeline for the DevOps-illiterate.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hiking Buddy</title>
-      <link>/portfolio/hiking-buddy/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/hiking-buddy/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/hiking-buddy/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/hiking-buddy/</guid>
       <description>&lt;p&gt;Mapbox + Unity 3D = Me buying an Android developer license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Year in Review</title>
-      <link>/portfolio/a-year-in-review/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/a-year-in-review/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/a-year-in-review/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/a-year-in-review/</guid>
       <description>&lt;p&gt;A reflection on my first year (and change) in the real world.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cyclist Safety in NYC</title>
-      <link>/portfolio/cyclist-safety/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/cyclist-safety/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/cyclist-safety/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/cyclist-safety/</guid>
       <description>&lt;p&gt;Is there a relationship between bike path access and cyclist injuries?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Date with Mapdeck</title>
-      <link>/portfolio/a-date-with-mapdeck/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/a-date-with-mapdeck/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/a-date-with-mapdeck/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/a-date-with-mapdeck/</guid>
       <description>&lt;p&gt;Deck.gl is cool, Deck.gl in R is cooler.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sync the City</title>
-      <link>/portfolio/sync-the-city/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/sync-the-city/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/portfolio/sync-the-city/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/sync-the-city/</guid>
       <description>&lt;p&gt;Synchronizing change throughout the city.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shiny is Cool as Hell</title>
-      <link>/portfolio/shiny-is-cool-as-hell/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/shiny-is-cool-as-hell/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/shiny-is-cool-as-hell/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/shiny-is-cool-as-hell/</guid>
       <description>&lt;p&gt;A suprisingly intuitive tool for data democratization.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MTA Doom and Gloom</title>
-      <link>/portfolio/mta-shutdown/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/mta-shutdown/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/mta-shutdown/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/mta-shutdown/</guid>
       <description>&lt;p&gt;Is the NYC subway system as dire as we say it is?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Default Effect Study</title>
-      <link>/portfolio/default-effect-study/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/default-effect-study/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/default-effect-study/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/default-effect-study/</guid>
       <description>&lt;p&gt;How does transparency in messaging impact renewable energy adoption?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pro-Environmental Action Lab</title>
-      <link>/portfolio/pro-environmental-action-lab/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/pro-environmental-action-lab/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/pro-environmental-action-lab/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/pro-environmental-action-lab/</guid>
       <description>&lt;p&gt;My work as a research associate in a sustainability psychology lab.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>New Year, New (First) Blog</title>
-      <link>/portfolio/new-year-new-first-blog/</link>
+      <link>https://jasonbixon.netlify.com/portfolio/new-year-new-first-blog/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/new-year-new-first-blog/</guid>
+      <guid>https://jasonbixon.netlify.com/portfolio/new-year-new-first-blog/</guid>
       <description>&lt;p&gt;Trying my best.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://jasonbixon.netlify.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://jasonbixon.netlify.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

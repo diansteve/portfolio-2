@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/hiking-buddy.jpg
 showonlyimage: false
 title: Hiking Buddy
-weight: 3
+weight: 4
 ---
 
 Mapbox + Unity 3D = Me buying an Android developer license.

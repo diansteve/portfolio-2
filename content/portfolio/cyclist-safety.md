@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/cyclist-safety.gif
 showonlyimage: false
 title: Cyclist Safety in NYC
-weight: 5
+weight: 6
 ---
 
 Is there a relationship between bike path access and cyclist injuries?

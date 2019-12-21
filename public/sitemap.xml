@@ -3,129 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/devops-is-not-fun/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/nodeblog/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/shinyhero/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/devops-is-not-fun/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/hiking-buddy/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/shinyhero/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/a-year-in-review/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/hiking-buddy/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/cyclist-safety/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/a-year-in-review/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/a-date-with-mapdeck/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/cyclist-safety/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/sync-the-city/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/a-date-with-mapdeck/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonbixon.netlify.com/portfolio/sync-the-city/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/shiny-is-cool-as-hell/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/shiny-is-cool-as-hell/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/mta-shutdown/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/mta-shutdown/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/default-effect-study/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/default-effect-study/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/pro-environmental-action-lab/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/pro-environmental-action-lab/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/new-year-new-first-blog/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/new-year-new-first-blog/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://jasonbixon.netlify.com/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://jasonbixon.netlify.com/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://jasonbixon.netlify.com/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jasonbixon.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://jasonbixon.netlify.com/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://jasonbixon.netlify.com/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>https://jasonbixon.netlify.com/portfolio/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://jasonbixon.netlify.com/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://jasonbixon.netlify.com/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://jasonbixon.netlify.com/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://jasonbixon.netlify.com/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://jasonbixon.netlify.com/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
